@@ -1,0 +1,46 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+small{
+ color: #FD511A;
+ font-size: medium;
+}
+/* Learn With fun on any schedule */
+
+h1{font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+/* or 146% */
+
+color: #000000;
+}
+.get-started-button {
+   background-image: linear-gradient(to bottom,#20c997 0%,#06e09f 100%) ;
+   color: #fff;
+   border: none;
+   border-radius: 20px;
+   padding: 15px 30px;
+   cursor: pointer;
+}
+.card{
+    border: none;
+    
+}
+
+
+footer{
+position: absolute;
+width: 2000px;
+height: 369px;
+left: 0px;
+top: 2013px;
+
+
+background: #282531;
+}
+
+
+
+    
